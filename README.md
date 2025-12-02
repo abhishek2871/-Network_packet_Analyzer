@@ -81,7 +81,7 @@ Designed to run smoothly on Windows machines.
 
 ✅ 3. Download or Save the Script
 
-     git clone 
+     git clone https://github.com/abhishek2871/-Network_packet_Analyzer.git
 
 ---
 
